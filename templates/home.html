@@ -1,12 +1,68 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<title>Page Title</title>
+    <title>Page Title</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="/static/styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 </head>
+
 <body>
 
-<h1>Covid-19 Vaccination Search Engine</h1>
-<p></p>
+<h1 class="text-center display-4"> COVID-19 Vaccination Search Engine</h1>
+<p class="text-center h3"></pclass>Get vaccinated location near you.</p>
+<p>COVID-19 vaccines are now available in limited quantities and age groups. 
+    To learn more about COVID-19 please, <a href="https://www.cdc.gov/library/researchguides/2019novelcoronavirus/websites.html">click here</a>
+</p>
+<form>
+    <div class="form-group">
+      <label for="exampleInputCounty">Enter your County</label>
+      <input type="email" class="form-control" id="exampleInputCounty" aria-describedby="countyHelp" placeholder="Example: San Francisco County">
+    </div>
+</form>
+
+<button type="button" class="btn btn-success" onclick="geolocate()">Enable your Location</button>
+<div class="card">
+    <div class="card-header">
+      Name of the Vaccination location
+    </div>
+    <div class="card-body">
+      <p class="card-text">Address and phone number</p>
+    </div>
+</div>
 
 </body>
+
+<script>
+    function geolocate() {
+        if(navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(function(position) {
+                var positionInfo = "Your current position is (" + "Latitude: " + position.coords.latitude + ", " + "Longitude: " + position.coords.longitude + ")";
+                console.log(positionInfo);
+
+                // Make request to getCounty function
+                $.ajax({
+                    type: "POST",
+                    url: "/postmethod",
+                    contentType: "application/json",
+                    data: JSON.stringify({ latitude: position.coords.latitude, longitude:position.coords.longitude}),
+                    dataType: "json",
+                    success: function(response) {
+                        console.log(response["county_name"]) //prints county name
+                    },
+                    error: function(err) {
+                        console.log(err);
+                    }
+                });
+
+            }, function() {
+                console.log("error");
+            });
+
+        } else {
+            alert("Sorry, your browser does not support HTML5 geolocation.");
+        }
+    }
+</script>
 </html>
