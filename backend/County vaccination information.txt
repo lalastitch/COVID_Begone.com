@@ -1,0 +1,543 @@
+﻿Los Angeles County; Carbon Health;1000 Vin Scully Ave, Los Angeles, CA;(833)540-0473;https://carbonhealth.com/covid-19-vaccines/los-angeles
+
+
+Los Angeles County;Carbon Health;10965 Dronfield Blvd, Pacoima, CA;(833)540-0473;https://carbonhealth.com/covid-19-vaccines/los-angeles
+
+
+Los Angeles County;Carbon Health;20498 Victory Blvd, Los Angeles, CA;(833)540-0473;https://carbonhealth.com/covid-19-vaccines/los-angeles
+
+
+Los Angeles County;Carbon Health;208 Park Ave, San Fernando, CA;(833)540-0473;https://carbonhealth.com/covid-19-vaccines/los-angeles
+
+
+Los Angeles County;Carbon Health;3501 Valley Blvd, Los Angeles, CA;(833)540-0473;https://carbonhealth.com/covid-19-vaccines/los-angeles
+
+
+Los Angeles County;Carbon Health;1261 W 79th St, Los Angeles, CA;(833)540-0473;https://carbonhealth.com/covid-19-vaccines/los-angeles
+
+
+Los Angeles County;Ralph’s;29675 the Old Rd, Castaic, CA;(661)702-6936;https://www.ralphs.com/rx/guest/get-vaccinated 
+
+
+Los Angeles County;Ralph’s;22333 Sherman Way, Canoga Park, CA;(818)713-8014;https://www.ralphs.com/rx/guest/get-vaccinated 
+
+
+Los Angeles County;Ralph’s;13321 South St., Cerritos, CA;(562)924-2838;https://www.ralphs.com/rx/guest/get-vaccinated 
+
+
+Los Angeles County;Ralph’s;2201 W Redondo Beach Blvd., Gardena, CA;(310)538-9116;https://www.ralphs.com/rx/guest/get-vaccinated 
+
+
+Los Angeles County;Ralph’s;1413 Hawthorne Blvd., Redondo Beach, CA;(310)370-8784;https://www.ralphs.com/rx/guest/get-vaccinated 
+
+
+Los Angeles County;Ralph’s;5035 Pacific Coast Hwy., Torrance, CA;(310)378-5214;https://www.ralphs.com/rx/guest/get-vaccinated 
+
+
+Los Angeles County;Ralph’s;260 S La Brea Ave., Los Angeles, CA; (323)937-9383;https://www.ralphs.com/rx/guest/get-vaccinated 
+
+
+Los Angeles County;Ralph’s;4311 Lincoln Blvd., Marina Del Rey, CA; (310)821-4993;https://www.ralphs.com/rx/guest/get-vaccinated 
+
+
+Los Angeles County;Ralph’s;500 N Sepulveda Blvd., El Segundo, CA; (310)615-3025;https://www.ralphs.com/rx/guest/get-vaccinated 
+
+
+Los Angeles County;Ralph’s;1770 Carson St., Torrance, CA;(310)787-8786;https://www.ralphs.com/rx/guest/get-vaccinated 
+
+
+Los Angeles County;Rite Aid;9715 Otis St., South Gate, CA;(323)566-1198;https://www.riteaid.com/pharmacy/covid-qualifier
+
+
+Los Angeles County;Rite Aid;2150 South Atlantic Boulevard, Monterey Park, CA;(323)726-0385;https://www.riteaid.com/pharmacy/covid-qualifier
+
+
+Los Angeles County;Rite Aid;500 South Broadway, Los Angeles, CA;(213)623-5830;https://www.riteaid.com/pharmacy/covid-qualifier
+
+
+Los Angeles County;Rite Aid;446 East Washington Blvd., Los Angeles, CA;(213)747-9581https://www.riteaid.com/pharmacy/covid-qualifier
+
+
+Los Angeles County;Rite Aid;959 Crenshaw Blvd., Los Angeles, CA;(323)939-7911;https://www.riteaid.com/pharmacy/covid-qualifier
+
+
+Los Angeles County;Rite Aid;1815 South Vermont Ave., Los Angeles, CA;(323)735-0774;https://www.riteaid.com/pharmacy/covid-qualifier
+
+
+Los Angeles County;Rite Aid;4322 South Figueroa St., Los Angeles, CA;(323)235-3535;https://www.riteaid.com/pharmacy/covid-qualifier
+
+
+Los Angeles County;Rite Aid;1534 East Florence Ave., Los Angeles, CA;(323)587-6336;https://www.riteaid.com/pharmacy/covid-qualifier
+
+
+Los Angeles County;Rite Aid;707 N Pacific Ave., Glendale, CA;(818)547-5710;https://www.riteaid.com/pharmacy/covid-qualifier
+
+
+Los Angeles County;Albertson’s;1735 W Artesia Blvd., Gardena, CA;(310)380-4650;https://mhealthcheckin.com/covidvaccine?clientId=1609866524404&region=California&urlId=%2Fvcl%2F1609866524404 
+
+
+Los Angeles County;Albertson’s;110 E Carson St., Carson, CA;(310)834-2561;https://mhealthcheckin.com/covidvaccine?clientId=1610414123440&region=California&urlId=%2Fvcl%2F1610414123440 
+
+
+Los Angeles County;Albertson’s;200 E Sepulveda Blvd., Carson, CA;(310)513-6800;https://mhealthcheckin.com/covidvaccine?clientId=1610414895548&region=California&urlId=%2Fvcl%2F1610414895548 
+
+
+San Diego County;Rady Children’s Hospital;3020 Children’s Way, San Diego, CA;(858)576-1700;https://scheduling.rchsd.org/county/ 
+
+
+San Diego County;San Diego Fire;2111 Pan American Plaza, San Diego, CA;No number;https://outlook.office365.com/owa/calendar/SanDiegoFireRescue@cityofsandiego.onmicrosoft.com/bookings/ 
+
+
+San Diego County;San Diego Fire; 5148 Market St., San Diego, CA;No number;https://outlook.office365.com/owa/calendar/SanDiegoFireRescueDepartment1stShotMalcomX@cityofsandiego.onmicrosoft.com/bookings/ 
+
+
+San Diego County;UC San Diego;1235 K St., San Diego, CA;(619) 542-5220;https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/vax-schedule-appointment.html#ucsd 
+
+
+San Diego County;County of San Diego;3177 Ocean View Blvd., San Diego, CA;(833)422-4255;https://myturn.ca.gov/ 
+
+
+San Diego County;City of Coronado;1845 Strand Way, Coronado, CA;No number;https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/vax-schedule-appointment.html#coronado 
+
+
+San Diego County;County of San Diego;415 Euclid Ave., San Diego, CA;(833)422-4255;https://myturn.ca.gov/ 
+
+
+San Diego County;County of San Diego;140 East 12th St., National City, CA;(833)422-4255;https://myturn.ca.gov/ 
+
+
+San Diego County;Rady Children’s Hospital;8001 Frost St., San Diego, CA;(858)576-1700;https://scheduling.rchsd.org/county/ 
+
+
+San Diego County;County of San Diego;3146 School Ln., Lemon Grove, CA;(833)422-4255;https://myturn.ca.gov/ 
+
+
+San Diego County;Sharp Healthcare;565 Broadway, Chula Vista, CA;No Number;https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/vax-schedule-appointment.html#southbayInstructions 
+
+
+San Diego County;Sharp Healthcare;5500 Grossmont Center Dr., Ste 212, La Mesa, CA;No Number;https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/vax-schedule-appointment.html#southbayInstructions 
+
+
+San Diego County;County of San Diego;690 Oxford St. Chula Vista, CA;(833)422-4255;https://myturn.ca.gov/ 
+
+
+Orange County;CVS;2521 Eastbluff Dr, Newport Beach, CA;(949)717-6642;https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns 
+
+
+Orange County;CVS;15333 Culver Dr, Irvine, CA;(949)654-2600;https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns 
+
+
+Orange County;CVS;24167 Paseo De Valencia, Laguna Woods, CA;(949)586-3503;https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns 
+
+
+Orange County;CVS;26891 Aliso Creek Rd, Aliso Viejo, CA;(949)360-4081;https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns 
+
+
+Orange County;CVS;3949 Portola Pkwy, Irvine, CA;(714)508-7527;https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns 
+
+
+Orange County;CVS;18872 Beach Blvd, Huntington Beach, CA;(714)378-1452;https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns 
+
+
+Orange County;CVS;30842 CA-1, Laguna Beach, CA;(949)499-2277;https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns 
+
+
+Orange County;CVS;16961 Beach Blvd, Huntington Beach, CA;(714)841-3591;https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns 
+
+
+Orange County;CVS;25622 Crown Valley Pkwy, Ladera Ranch, CA;(949)347-6751;https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns 
+
+
+Orange County;Curative;2041 Business Center Dr, Irvine, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Orange County;Curative;21815 Pioneer Blvd, Hawaiian Gardens, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Orange County;Soka University;1 University Drive, Aliso Viejo, CA;(949)480-4000;https://othena.com/individuals.php 
+
+
+Orange County;Santa Ana College;1530 W 17th St, Santa Ana, CA;(714)564-6000;https://othena.com/individuals.php 
+
+
+Orange County;Anaheim Convention Center;800 W Katella Ave, Anaheim, CA;(714)765-8950;
+Riverside County;CVS;2400 River Rd, Norco, CA;(951)737-7221;https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns 
+
+
+Riverside County;CVS;27749 Clinton Keith Rd, Murrieta, CA;(951)304-3479;https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns 
+
+
+Riverside County;CVS;3055 W Florida Ave, Hemet, CA;(951)652-0866;https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns 
+
+
+Riverside County;CVS;29171 Newport Rd, Menifee, CA;(951)679-2245;https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns 
+
+
+Riverside County; Curative;5272-5298 Mitchell Ave, Riverside, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;400 South Vicentia Ave, Corona, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;2985 Madison St, Riverside, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;321 E Alessandro Blvd, Riverside, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;3443 Canyon Crest Drive, Riverside, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;14075 Frederick St, Moreno Valley, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;5000 Tequesquite Ave, Riverside, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;1886 Butterfield Dr, Corona, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;2719 Mary Street, Riverside, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;2008 Martin Luther King Blvd, Riverside, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;4800 Magnolia Ave, Riverside, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;1401 Iowa Ave, Riverside, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;3300 Market St, Riverside, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;4810 Pedley Rd., Jurupa Valley, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;615 Richey Street, Corona, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;75080 Frank Sinatra Drive, Palm Desert, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;71-100 Highway 111, Rancho Mirage, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;78450 Avenida La Fonda, La Quinta, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;38180 Del Webb Blvd, Palm Desert, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;46350 Arabia St., Indio, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Riverside County; Curative;44-175 Washington Street, Indian Wells, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+San Bernardino County;Providence;18300 Highway 18, Apple Valley, CA;(888)702-9042;https://coronavirus.providence.org/blog/uf/647143738 
+
+
+San Bernardino County;Redlands Community Hospital;350 Terracina Blvd., Redlands, CA;(909) 793-3716; COVID-19vaccine@redlandshospital.org 
+
+
+San Bernardino County;Mountain Community Hospital District;29101 Hospital Road, Lake Arrowhead, CA;(800) 782-4264;https://www.mchcares.com/covid-19-vaccination/ 
+
+
+San Bernardino County;OptumServe Vaccine Clinic;18313 Valley Blvd., Bloomington, CA;(877)218-0381;https://myoptumserve.com/covid19 
+
+
+San Bernardino County;OptumServe Vaccine Clinic;12202 1st St., Yucaipa, CA;(877)218-0381;https://myoptumserve.com/covid19 
+
+
+San Bernardino County;Albertson’s;450 E Cypress Ave., Redlands, CA;(909)793-2218;https://mhealthcheckin.com/covidvaccine?clientId=1610496091802&region=SoCal_-_1&urlId=%2Fvcl%2F1610496091802 
+
+
+San Bernardino County;Albertson’s;7201 Boulder Ave., Highland, CA;(909)425-1194;https://mhealthcheckin.com/covidvaccine?clientId=1610410730576&region=SoCal_-_1&urlId=%2Fvcl%2F1610410730576 
+
+
+San Bernardino County;Albertson’s;3255 Grand Ave., Chino Hills, CA;(909)590-8373;https://mhealthcheckin.com/covidvaccine?clientId=1610411222004&region=California&urlId=%2Fvcl%2F1610411222004 
+
+
+San Bernardino County;Albertson’s;8850 Foothill Blvd., Rancho Cucamonga, CA;(909)484-8251;https://mhealthcheckin.com/covidvaccine?clientId=1610413192218&region=SoCal_-_1&urlId=%2Fvcl%2F1610413192218 
+
+
+San Bernardino County;Albertson’s;20261 Hwy 18, Apple Valley, CA;(760)242-1323;https://mhealthcheckin.com/covidvaccine?clientId=1610413611214&region=SoCal_-_1&urlId=%2Fvcl%2F1610413611214 
+
+
+San Bernardino County;Albertson’s;15970 Los Serranos Country Club Dr., Chino Hills, CA;(909)606-8185;https://mhealthcheckin.com/covidvaccine?clientId=1610415785338&region=California&urlId=%2Fvcl%2F1610415785338 
+
+
+San Bernardino County;Curative;16224 Mallory Drive, Fontana, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+San Bernardino County;Curative;8425 Mango Ave, Fontana, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+San Bernardino County;Curative;6762 Juniper Ave, Fontana, CA;(888)702-9042;https://curative.com/screen/symptoms 
+
+
+Santa Clara County;Santa Clara Valley Medical Center Hospitals and Clinics;751 S Bascom Ave, San Jose, CA;(408)885-5000;No number;https://vax.sccgov.org/home
+
+
+Santa Clara County;Stanford Healthcare;2585 Samaritan Drive, Suite 303, San Jose;(650)498-9000;https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html
+
+
+Santa Clara County;Stanford Healthcare;Arrillaga Center at 341 Galvez Street, Stanford;(650)498-9000;https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html
+
+
+Santa Clara County;Stanford Healthcare;Cardinal Café at 505 Broadway, Redwood City;(650)498-9000;https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html
+
+
+Santa Clara County;Stanford Healthcare;Cisco Garage (SJC Parking Structure 2) at 350 E Tasman Dr, San Jose;(650)498-9000;https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html
+
+
+Santa Clara County;Kaiser Permanente;700 Lawrence Expy, Santa Clara, CA;(408)851-1000;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine 
+
+
+Santa Clara County;Sutter Health;795 El Camino Real
+Palo Alto, CA;(844)987-6115;https://www.sutterhealth.org/pamf/for-patients/health-alerts/covid-19-vaccine
+
+
+Santa Clara County;El Camino Health;828 South Winchester Boulevard
+San Jose, CA;(408)866-4000;https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine?utm_source=SCCPH&utm_medium=referral&utm_campaign=covid19
+
+
+Santa Clara County;Bay Area Community Health; 40910 Fremont Blvd., Fremont, CA;(408)729-9700;https://bach.health/vaccine
+
+
+Santa Clara County;VA Palo Alto Health Care System;3801 Miranda Avenue
+Palo Alto, CA;(800)455-0057;https://www.paloalto.va.gov/services/covid-19-vaccines.asp
+
+
+Alameda County;Sutter Care at Home;1025 Atlantic Avenue Suite 100 Alameda, CA;(510)263-0900;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Alameda County;Sutter Care at Home;1105 Atlantic Avenue Alameda, CA;(888)395-2200;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Alameda County;Merritt Peralta Institute (MPI) Treatment Services;3012 Summit Street 5th Floor Oakland, CA;(510)652-7000;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Alameda County;Merritt Peralta Institute (MPI) Treatment Services;3012 Summit Street 5th Floor Oakland, CA;(510)652-7000;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Alameda County;South Pavilion (3012 Summit Street Entrance);3012 Summit Street Oakland, CA;(510)655-4000;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Alameda County;Oakland Care Center;350 30th Street Oakland, CA;(510)204-8290;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Alameda County;Oakland Care Center Lab;350 30th Street Suite 100 Oakland, CA;(510)204-6674;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Alameda County;Peralta Medical Office Building;3100 Telegraph Avenue Oakland, CA;(510)655-4000;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Alameda County;Carol Ann Read Breast Health Center;3100 Summit Street Ground Floor Oakland, CA;(510)869-8377;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Alameda County;East Bay AIDS Center (EBAC) Pharmacy;3100 Summit Street Room 2403, 2nd Floor Oakland, CA;(510)869-8451;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Alameda County;South Pavilion (3100 Summit Street Entrance);3100 Summit Street
+Oakland, CA;(510)655-4000;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Alameda County;Kaiser Permanente;2417 Central Avenue, Alameda, CA;(510) 752-1190;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Alameda County;Kaiser Permanente;3600 Broadway, Oakland, CA;(510)752-1000;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Alameda County;Kaiser Permanente;1301 Pinole Valley Road, Pinole, CA;(510)243-4000;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Alameda County;Kaiser Permanente;901 Nevin Ave., Richmond, CA;(510)307-1555;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Alameda County;Kaiser Permanente;39400 Paseo Padre Parkway, Fremont, CA;(510)248-3000;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Alameda County;Kaiser Permanente;27303 Sleepy Hollow Avenue, Hayward, CA;(510)454-1000;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Alameda County;Kaiser Permanente;2500 Merced Street, San Leandro, CA;(510)454-1000;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Alameda County;Kaiser Permanente;3555 Whipple Rd, Union City, CA;(510)454-1000;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Alameda County;Stanford Healthcare;6121 Hollis St, Emeryville;(650)498-9000;https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html
+
+
+Alameda County;Stanford Healthcare;5565 W. Las Positas Blvd, Suite 150, Pleasanton;(650)498-9000;https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html
+
+
+Alameda County;CVS Pharmacy;2314 Santa Clara Ave, Alameda, CA;(510)523-4929;https://www.cvs.com/immunizations/covid-19-vaccine
+
+
+Alameda County;CVS Pharmacy;885 Island Dr Suite A, Alameda, CA;(510)865-2155;https://www.cvs.com/immunizations/covid-19-vaccine
+
+
+Alameda County;CVS Pharmacy;931 Marina Village Pkwy, Alameda, CA;(510)523-3504;https://www.cvs.com/immunizations/covid-19-vaccine
+
+
+Alameda County;CVS Pharmacy;7200 Bancroft Ave, Oakland, CA;(510)569-2795;https://www.cvs.com/immunizations/covid-19-vaccine
+
+
+Alameda County;CVS Pharmacy;2964 Broadway Ave, Oakland, CA;(510)836-7904;https://www.cvs.com/immunizations/covid-19-vaccine
+
+
+Alameda County;CVS Pharmacy;1550 E 14th St, San Leandro, CA;(510)351-7957;https://www.cvs.com/immunizations/covid-19-vaccine
+
+
+Alameda County;CVS Pharmacy;2000 Mountain Blvd, Oakland, CA;(510)339-8535;https://www.cvs.com/immunizations/covid-19-vaccine
+
+
+Alameda County;CVS Pharmacy;6750 Bernal Ave, Pleasanton, CA;(925)249-9011;https://www.cvs.com/immunizations/covid-19-vaccine
+
+
+Alameda County;CVS Pharmacy;4349 San Pablo Ave, Emeryville, CA;(510)653-0526;https://www.cvs.com/immunizations/covid-19-vaccine
+
+
+Alameda County;CVS Pharmacy;4100 Redwood Rd, Oakland, CA;(510)531-0602;https://www.cvs.com/immunizations/covid-19-vaccine
+
+
+Sacramento County;Mercy Medical Group;3000 Q St Sacramento, CA;(916)546-9541;https://www.dignityhealth.org/sacramento/medical-group/mercy-medical-group
+
+
+Sacramento County;Kaiser Permanente;1955 Cowell Blvd, Davis, CA;(530)757-7100;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Sacramento County;Kaiser Permanente;501 J Street, Sacramento, CA;(916)497-3000;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Sacramento County;Kaiser Permanente;2345 Fair Oaks Blvd, Sacramento, CA;(916)973-5000;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Sacramento County;Kaiser Permanente;285 Palladio Pkwy, Folsom, CA;(916)986-4178;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Sacramento County;Kaiser Permanente;2155 Iron Point Road, Folsom, CA;(916)817-5200;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Sacramento County;Kaiser Permanente;1900 Dresden Dr, Lincoln, CA;(916)543-5153;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Sacramento County;Kaiser Permanente;1650 Response Road, Sacramento, CA;(916)973-5000;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Sacramento County;Kaiser Permanente;10725 International Dr, Rancho Cordova, CA;(916)631-3000;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Sacramento County;Kaiser Permanente;1011 Riverside Ave, Roseville, CA;(916)784-4050;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Sacramento County;Kaiser Permanente;1600 Eureka Rd, Roseville, CA;(916)784-4000;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Sacramento County;Kaiser Permanente;2025 Morse Ave, Sacramento, CA;(916)973-5000;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Sacramento County;Sutter SeniorCare PACE;444 North 3rd Street Sacramento, CA;(833)560-7223;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Sacramento County;Sutter Capitol Pavilion ENT & Audiology;2725 Capitol Avenue
+Sacramento, CA;(916)262-9456;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Sacramento County;Sutter Capitol Pavilion;2725 Capitol Avenue Sacramento, CA;No number;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Sacramento County;Sutter Capitol Pavilion Lab;2725 Capitol Avenue Suite 100 Sacramento, CA;(916)262-9315;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Sacramento County;Sutter Capitol Pavilion Outpatient Surgery Center;2725 Capitol Avenue
+2nd Floor Suite 200 Sacramento, CA;(916)887-5059;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Sacramento County;Sutter Imaging Capitol Pavilion I;2725 Capitol Avenue Suite 106 Sacramento, CA;(916)262-9302;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Sacramento County;Sutter Imaging Capitol Pavilion II;2725 Capitol Avenue Suite 106 Sacramento, CA;(916)262-9301;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Sacramento County;Fort Sutter Surgery Center;2801 K Street Suite 525 Sacramento, CA;(916) 733-5017;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Sacramento County;Institute for Health & Healing;2801 K Street Suite 502 Sacramento, CA;(916)887-4660;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Sacramento County;Sutter Imaging Neurointerventional Clinic;2801 K Street Suite 240
+Sacramento, CA;(916)925-9526;https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine
+
+
+Sacramento County;UC Davis Medical Center;2315 Stockton Blvd, Sacramento, CA;(916)734-2011;https://health.ucdavis.edu/coronavirus/covid-19-vaccine/index.html
+
+
+Sacramento County;California Northstate University;9700 W Taron Dr, Elk Grove, CA;(916)686-7300;https://usc.qualtrics.com/jfe/form/SV_cvcS6aoeoBWEyQC
+
+
+Sacramento County;Sacramento State University;6000 J St, Sacramento, CA;(916)278-6011;https://dhs.saccounty.net/PUB/Documents/Communicable-Disease-Control/ME-COVID19VaccineClinicsSacState.pdf
+
+
+Sacramento County;Safeway Pharmacy;5450 Dewey Dr., Fair Oaks, CA;(916)904-5360;https://mhealthsystem.com/safeway1895phase1a
+
+
+Sacramento County;Safeway Pharmacy;2851 Del Paso Rd, Sacramento, CA;(916)285-8844;https://mhealthsystem.com/safeway2697phase1a
+
+
+Sacramento County;Safeway Pharmacy;8925 Madison Ave, Fair Oaks, CA;(916)965-1541;https://mhealthsystem.com/1846covidclinic
+
+
+Sacramento County;Safeway Pharmacy;5021 Laguna Blvd, Elk Grove, CA;(916)691-3777;https://mhealthsystem.com/1647covidclinic
+
+
+Sacramento County;Safeway Pharmacy;10635 Folsom Blvd, Rancho Cordova, CA;(916)364-4944;https://mhealthsystem.com/1746covidclinic
+
+
+Sacramento County;Safeway Pharmacy;3680 Crocker Drive Ste. 100, Sacramento, CA;(279)399-9270;https://mhealthsystem.com/3013covidclinic
+
+
+Sacramento County;Safeway Pharmacy;1850 Prairie City Rd, Folsom, CA;(916)608-2455;https://mhealthsystem.com/1794covidclinic
+
+
+Sacramento County;Safeway Pharmacy;1814 19th St, Sacramento, CA;(916)492-9977;https://mhealthsystem.com/2684sacramento
+
+
+Sacramento County;Safeway Pharmacy;1025 Alhambra Blvd, Sacramento, CA;(916)456-3421;https://mhealthsystem.com/2242covidclinic
+
+
+Sacramento County;Safeway Pharmacy;7301 Greenback Ln, Citrus Heights, CA;(916)727-2458;https://mhealthsystem.com/1531covidclinics
+
+
+Contra Costa County;Contra Costa Health Services;2500 Alhambra Ave, Martinez, CA;(866)663-3225;https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3tkgKC3cY0OGJvKwA0OMRRd1QfIVjtpAkM-cYiio35ZUM0hIWVpaOTJHSDBTM0ZLSU5SNUM3NEo0OCQlQCN0PWcu
+
+
+Contra Costa County;Contra Costa Regional Medical Centers and Health Centers;2500 Alhambra Ave, Martinez, CA;(925) 370-5000;https://cchealth.org/medicalcenter/
+
+
+Contra Costa County;John Muir Health;907 San Ramon Valley Blvd #104, Danville, CA;(925)837-1044;https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html?x-cq-linkchecker=skip
+
+
+Contra Costa County;Kaiser Permanente;1425 South Main Street, Walnut Creek, CA;(925)295-4000;https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine
+
+
+Fresno County;CVS Pharmacy;1455 E Noble Ave, Visalia, CA;(559)636-1603;https://www.cvs.com/immunizations/covid-19-vaccine
+
+
+Fresno County;CVS Pharmacy;2539 N 11th Ave, Hanford, CA;(559)585-3960;https://www.cvs.com/immunizations/covid-19-vaccine
+
+
+Fresno County;CVS Pharmacy;333 Academy Ave, Sanger, CA;(559)875-2044;https://www.cvs.com/immunizations/covid-19-vaccine
+
+
+Fresno County;CVS Pharmacy;1794 Ashlan Ave, Clovis, CA;(559)294-6603;https://www.cvs.com/immunizations/covid-19-vaccine
+
+
+Fresno County;Big Fresno Fair;1121 S Chance Ave, Fresno, CA;(559)650-3247;https://myturn.ca.gov
+
+
+Fresno County;Reedley College;995 North Reed Ave., Reedley, CA;(559)638-0300;https://myturn.ca.gov
