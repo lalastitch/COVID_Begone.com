@@ -7,7 +7,7 @@ def CountyDict():
         line = section.strip().split(";")
         for i in line[1:]:
             empty.append(i)
-        countyDict[line[0]].append(tuple(empty))
+        countyDict[line[0].lower()].append(tuple(empty))
         empty = []
     return countyDict
 
@@ -16,5 +16,4 @@ class VaccinesZipcode():
     def __getitem__(self, county):
         dictofCounties = CountyDict()
         # looks up county name in dictionary and returns the vaccination information
-        return dictofCounties[county]
-
+        return dictofCounties[county.lower()]
