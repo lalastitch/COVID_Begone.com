@@ -160,7 +160,8 @@ Orange County;Soka University;1 University Drive, Aliso Viejo, CA;(949)480-4000;
 Orange County;Santa Ana College;1530 W 17th St, Santa Ana, CA;(714)564-6000;https://othena.com/individuals.php 
 
 
-Orange County;Anaheim Convention Center;800 W Katella Ave, Anaheim, CA;(714)765-8950;
+Orange County;Anaheim Convention Center;800 W Katella Ave, Anaheim, CA;(714)765-8950;https://othena.com/individuals.php 
+
 Riverside County;CVS;2400 River Rd, Norco, CA;(951)737-7221;https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns 
 
 
