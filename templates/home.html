@@ -26,19 +26,20 @@
         </div>
     </div>
 </div>
+
 <p id="subheader" class="text-center h3"></pclass>Get vaccinated at a location near you.</p>
 <p id="description" class="text-center">COVID-19 vaccines are now available in limited quantities and age groups. 
     To learn more about COVID-19 please, <a href="https://www.cdc.gov/library/researchguides/2019novelcoronavirus/websites.html">click here</a>
 </p>
 
-<div class="container">
+<div id="input-container" class="container">
     <div id="input-row" class="row">
         <div class="text-center col-6" style="padding-right: 30px; border-right: 1px solid #ccc;">
             <form>
                 <div class="form-group">
                     <label for="exampleInputCounty">Enter your County</label>
                     <input type="text" class="form-control" id="exampleInputCounty" aria-describedby="countyHelp" placeholder="Example: San Francisco County">
-                    <button type="button" id="btn-county-submit" class="btn btn-success" onclick="findLocation()">Submit Your County</button>
+                    <button type="button" id="btn-county-submit" class="btn btn-success" onclick="findLocation(null)">Submit Your County</button>
                 </div>
             </form>          
         </div>
@@ -80,7 +81,7 @@
                     dataType: "json",
                     success: function(response) {
                         console.log(response["county_name"])
-
+                        findLocation(response["county_name"] + " County");
                     },
                     error: function(err) {
                         console.log(err);
@@ -96,8 +97,17 @@
         }
     }
 
-    function findLocation() {
-        var input = document.getElementById('exampleInputCounty').value;
+    function findLocation(location) {
+        var input = location;
+        if (location == null) {
+            input = document.getElementById('exampleInputCounty').value.trim();
+            if (!input.includes("County")) {
+                input += " County";
+            }
+        }
+        else {
+            input.trim();
+        }
         console.log(input);
 
         if (input != null) {
@@ -109,10 +119,16 @@
                 data: JSON.stringify({ county: input}),
                 dataType: "json",
                 success: function(response) {
-                    // document.getElementById("card-container")
-
                     var vaccLocations = response["results"];
                     var newHTML = "";
+                    
+                    //if no results
+                    if (vaccLocations.length == 0) {
+                        console.log("no results");
+                        document.getElementById("card-container").innerHTML = "";
+                        document.getElementById("card-container").innerHTML += "<p>Sorry, that county is not yet supported.</p>";
+                        return;
+                    }
 
                     for (var i = 0; i < vaccLocations.length; i++) {
                         console.log(vaccLocations[i]);
