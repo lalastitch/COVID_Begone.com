@@ -3,6 +3,7 @@
 
 <head>
     <title>Page Title</title>
+    <link rel="shortcut icon" type="image/x-icon" href="/static/img/covid19.ico" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="/static/styles.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
@@ -10,25 +11,48 @@
 
 <body>
 
-<h1 class="text-center display-4"> COVID-19 Vaccination Search Engine</h1>
-<p class="text-center h3"></pclass>Get vaccinated location near you.</p>
-<p>COVID-19 vaccines are now available in limited quantities and age groups. 
+<div class="container">
+    <div class="row">
+        <div class="col-1">
+            <img id="img-covid" src="/static/img/covid19.png">
+        </div>
+        <div class="col">
+            <h1 class="text-center display-4"> COVID-19 Vaccination Search Engine</h1>
+        </div>
+    </div>
+</div>
+<p id="subheader" class="text-center h3"></pclass>Get vaccinated at a location near you.</p>
+<p id="description" class="text-center">COVID-19 vaccines are now available in limited quantities and age groups. 
     To learn more about COVID-19 please, <a href="https://www.cdc.gov/library/researchguides/2019novelcoronavirus/websites.html">click here</a>
 </p>
-<form>
-    <div class="form-group">
-      <label for="exampleInputCounty">Enter your County</label>
-      <input type="email" class="form-control" id="exampleInputCounty" aria-describedby="countyHelp" placeholder="Example: San Francisco County">
-    </div>
-</form>
 
-<button type="button" class="btn btn-success" onclick="geolocate()">Enable your Location</button>
-<div class="card">
-    <div class="card-header">
-      Name of the Vaccination location
+<div class="container">
+    <div id="input-row" class="row">
+        <div class="text-center col-6" style="padding-right: 30px; border-right: 1px solid #ccc;">
+            <form>
+                <div class="form-group">
+                    <label for="exampleInputCounty">Enter your County</label>
+                    <input type="text" class="form-control" id="exampleInputCounty" aria-describedby="countyHelp" placeholder="Example: San Francisco County">
+                    <button type="submit" id="btn-county-submit" class="btn btn-success">Submit Your County</button>
+                </div>
+            </form>          
+        </div>
+        <div class="text-center col-6">
+            <br>
+            <h6>Use your Location</h6>
+            <button type="button" class="btn btn-success" onclick="geolocate()">Enable your Location</button>
+        </div>
     </div>
-    <div class="card-body">
-      <p class="card-text">Address and phone number</p>
+</table>
+
+<div id="card-container" class="container text-center">
+    <div class="card">
+        <div class="card-header">
+            Name of the Vaccination location
+        </div>
+        <div class="card-body">
+            <p class="card-text">Address and phone number</p>
+        </div>
     </div>
 </div>
 

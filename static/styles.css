@@ -1,7 +1,45 @@
+@font-face {
+  font-family: Oswald-Medium;
+  src: url("/static/Oswald/Oswald-Medium.ttf");
+}
+
+@font-face {
+  font-family: Oswald-Light;
+  src: url("/static/Oswald/Oswald-Light.ttf");
+}
+
 body {
   background-color: #fffeea;
+  font-family: Oswald-Medium;
 }
 
 .card {
-  width: 30%;
+  width: 50%;
+  margin: 0 auto;
+  float: none;
+}
+
+#btn-county-submit {
+  margin-top: 10px;
+}
+
+#card-container {
+  padding-top: 20px;
+}
+
+#description {
+  font-family: Oswald-Light;
+}
+
+#img-covid {
+  width: 100%;
+  object-fit: cover;
+}
+
+/* #input-row {
+  height: 50px;
+} */
+
+#subheader {
+  font-family: Oswald-Light;
 }
