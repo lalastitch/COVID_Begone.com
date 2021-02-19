@@ -11,12 +11,17 @@
 
 <body>
 
+<!-- <span class="text-center">
+    <img id="img-covid" class="text-center rounded float-left" src="/static/img/covid19.png" width="100" height="100">
+    <h1 class="text-center display-4"> COVID-19 Vaccination Search Engine</h1>
+</span> -->
+
 <div class="container">
-    <div class="row">
-        <div class="col-1">
-            <img id="img-covid" src="/static/img/covid19.png">
+    <div class="row justify-content-center">
+        <div class="col col-lg-2">
+            <img id="img-covid" class="rounded float-left" src="/static/img/covid19.png" width="100" height="100">
         </div>
-        <div class="col">
+        <div class="col-md-auto">
             <h1 class="text-center display-4"> COVID-19 Vaccination Search Engine</h1>
         </div>
     </div>
@@ -33,7 +38,7 @@
                 <div class="form-group">
                     <label for="exampleInputCounty">Enter your County</label>
                     <input type="text" class="form-control" id="exampleInputCounty" aria-describedby="countyHelp" placeholder="Example: San Francisco County">
-                    <button type="submit" id="btn-county-submit" class="btn btn-success">Submit Your County</button>
+                    <button type="button" id="btn-county-submit" class="btn btn-success" onclick="findLocation()">Submit Your County</button>
                 </div>
             </form>          
         </div>
@@ -46,14 +51,15 @@
 </table>
 
 <div id="card-container" class="container text-center">
-    <div class="card">
+    <!-- <div class="card">
         <div class="card-header">
             Name of the Vaccination location
         </div>
         <div class="card-body">
             <p class="card-text">Address and phone number</p>
+            <p class="card-text">Link</p>
         </div>
-    </div>
+    </div> -->
 </div>
 
 </body>
@@ -73,7 +79,8 @@
                     data: JSON.stringify({ latitude: position.coords.latitude, longitude:position.coords.longitude}),
                     dataType: "json",
                     success: function(response) {
-                        console.log(response["county_name"]) //prints county name
+                        console.log(response["county_name"])
+
                     },
                     error: function(err) {
                         console.log(err);
@@ -88,5 +95,51 @@
             alert("Sorry, your browser does not support HTML5 geolocation.");
         }
     }
+
+    function findLocation() {
+        var input = document.getElementById('exampleInputCounty').value;
+        console.log(input);
+
+        if (input != null) {
+            // Make request to zipcode function
+            $.ajax({
+                type: "POST",
+                url: "/locations",
+                contentType: "application/json",
+                data: JSON.stringify({ county: input}),
+                dataType: "json",
+                success: function(response) {
+                    // document.getElementById("card-container")
+
+                    var vaccLocations = response["results"];
+                    var newHTML = "";
+
+                    for (var i = 0; i < vaccLocations.length; i++) {
+                        console.log(vaccLocations[i]);
+                        console.log(typeof vaccLocations[i]);
+
+                        newHTML += "<div class='card'>";
+                        newHTML += "<div class='card-header'>";
+                        newHTML += vaccLocations[i][0].replace("â€™", "'");
+                        newHTML += "</div>"
+                        newHTML += "<div class='card-body'>";
+                        newHTML += "<p class='card-text'>" + vaccLocations[i][1] + "</p>";
+                        newHTML += "<p class='card-text'>" + vaccLocations[i][2] + "</p>";
+                        newHTML += "<p class='card-text'><a href=" + vaccLocations[i][3] + ">" + vaccLocations[i][3] + "</a></p>";
+                        newHTML += "</div>"
+                        newHTML += "</div>"
+                    }
+                    
+                    document.getElementById("card-container").innerHTML = "";
+                    document.getElementById("card-container").innerHTML += newHTML;
+                },
+                error: function(err) {
+                    console.log("error: " + err);
+                }
+            });
+        }
+        
+
+    }  
 </script>
 </html>

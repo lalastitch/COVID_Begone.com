@@ -17,6 +17,7 @@ body {
   width: 50%;
   margin: 0 auto;
   float: none;
+  margin-top: 20px;
 }
 
 #btn-county-submit {
@@ -32,13 +33,10 @@ body {
 }
 
 #img-covid {
-  width: 100%;
+  width: 100px;
+  height: 100px;
   object-fit: cover;
 }
-
-/* #input-row {
-  height: 50px;
-} */
 
 #subheader {
   font-family: Oswald-Light;

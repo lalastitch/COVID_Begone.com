@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, jsonify
 import requests
 from getCounty import get_county
+from backend.zipcode import VaccinesZipcode, getItem
 
 app = Flask(__name__)
 
@@ -14,6 +15,13 @@ def home():
 def postmethod():
     data = request.get_json()
     return get_county(data)
+
+
+@app.route('/locations', methods=['POST'])
+def locations():
+    data = request.get_json()
+    county = data["county"]
+    return getItem(county)
 
 
 if __name__ == "__main__":
